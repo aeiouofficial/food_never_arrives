@@ -1,6 +1,7 @@
 # FoodNeverArrives v1.4
 
-![FoodNeverArrives hero](assets/readme-hero.png)
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/4cd22b9c-d794-469e-b3b0-1dcd6856603e" />
+
 
 > A mobile-first, one-file food-ordering showcase built as a comfort-oriented interactive web app.
 
@@ -13,8 +14,8 @@ The app presents a polished fictional food-delivery flow inside a responsive pho
 It is designed as a **showcase and interaction prototype**, not as a production marketplace. Payment details, GPS, notifications, restaurant availability, pricing, and delivery progress are simulated locally.
 
 ## Experience map
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/4901fff8-e287-4baf-b167-6b91a8455634" />
 
-![Product experience map](assets/product-experience-map.png)
 
 ## Feature highlights
 
@@ -125,7 +126,8 @@ This package does **not** provide real restaurant inventory, live courier GPS, p
 
 ## Full README overview
 
-![Full README overview](assets/full-readme-overview.png)
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/1789f8f2-d035-4a02-8009-e8af19967186" />
+
 
 ## Included source
 
